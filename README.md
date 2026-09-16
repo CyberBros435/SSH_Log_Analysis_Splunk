@@ -13,4 +13,4 @@ Simulates SSH login activity (successful and failed authentication attempts) on 
 5. Build an alert on failed login attempts
 6. Build a monitoring dashboard (timeline, success/fail ratio, failures by account)
 
-Full report: [report/report.md](report/report.md)
+Full report:[report/report.md](SSH_Log_Analysis/report/report.md)
